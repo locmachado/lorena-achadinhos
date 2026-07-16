@@ -1,13 +1,17 @@
 # Lorena Achadinhos
 
-Landing page oficial do grupo gratuito de promoções da Lorena Achadinhos.
+Landing page do Grupo VIP de promoções.
 
-## Arquivos
+## Publicação no GitHub Pages
+
+Envie estes arquivos para a raiz do repositório:
+
 - `index.html`
 - `style.css`
 - `script.js`
-- `logo-lorena-achadinhos.png`
-- `favicon.png`
+- pasta `assets`
 
-## Publicação
-Este projeto foi preparado para GitHub Pages.
+Mantenha o GitHub Pages configurado em:
+
+- Branch: `main`
+- Folder: `/(root)`

@@ -1,10 +1,7 @@
-document.getElementById("current-year").textContent = new Date().getFullYear();
+const button = document.getElementById("whatsapp-button");
 
-const whatsappButton = document.getElementById("whatsapp-button");
-
-whatsappButton.addEventListener("click", () => {
-  // Evento preparado para o Pixel da Meta.
-  // Quando você tiver o ID do Pixel, o código-base será adicionado ao <head>.
+button.addEventListener("click", () => {
+  // Dispara o evento Lead quando o Pixel da Meta estiver instalado.
   if (typeof window.fbq === "function") {
     window.fbq("track", "Lead");
   }
