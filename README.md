@@ -1,9 +1,8 @@
-# Lorena Achadinhos — arquivos para GitHub Pages
+# Lorena Achadinhos — versão final
 
-Todos os arquivos deste projeto devem ser enviados juntos para a raiz do repositório.
+Todos os arquivos deste projeto ficam na mesma pasta para facilitar o envio ao GitHub Pages.
 
-Não crie pastas para as imagens. A estrutura deve ficar assim:
-
+Envie para a raiz do repositório:
 - index.html
 - style.css
 - script.js
@@ -15,4 +14,4 @@ Não crie pastas para as imagens. A estrutura deve ficar assim:
 - mercado-livre.svg
 - magalu.svg
 
-Esta versão inclui as imagens das lojas, o título menor no celular e a frase de prova social em uma única linha.
+A versão foi ajustada para celular com título menor, “70% de desconto” sem quebra e a prova social em uma única linha.
