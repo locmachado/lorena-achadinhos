@@ -1,0 +1,20 @@
+PÁGINAS SEGMENTADAS — LORENA ACHADINHOS
+
+Pastas:
+- beleza/index.html
+- tecnologia/index.html
+- casa/index.html
+- pets/index.html
+- esporte/index.html
+
+Antes de publicar:
+Abra cada index.html e troque COLE_AQUI_O_LINK... pelo link do grupo de WhatsApp correspondente.
+
+Upload:
+1. Extraia este ZIP.
+2. No GitHub, na raiz do repositório, clique em Add file > Upload files.
+3. Arraste as cinco pastas e os cinco logos PNG.
+4. Clique em Commit changes.
+
+Os arquivos já usam ../style.css, ../script.js e as imagens que existem na raiz.
+O Meta Pixel e o evento Lead já estão incluídos.
